@@ -32,7 +32,7 @@ My first preference was the **General (O-General)** brand, but I could not find 
 
 I would greatly appreciate your suggestions on the following:
 1. **Which brand and specific model** would you recommend?
-2. **Which AC size (Tonnage) would be best** for this room setup?
+2. **Which AC size (Tonnage) would be best** for this room setup? (Walton and Esquire online calculators suggest **2.5 Ton**, but other websites suggest anywhere from **1.5 to 3 Ton**).
 3. **Reliable authorized shops, contacts, or online purchase links** in Dhaka from whom I can purchase one.
 
 Thank you!
