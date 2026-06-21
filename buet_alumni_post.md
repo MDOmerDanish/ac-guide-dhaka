@@ -19,9 +19,12 @@ I am planning to purchase an AC for my home in Dhaka. I am looking for a unit th
 
 **Room Details:**
 * **Floor:** Top Floor
-* **Dimensions:** 24.5 ft (L) x 12.8 ft (W) x 10.3 ft (H)
-* **Area:** ≈ 313.6 sq ft
-* **Volume:** ≈ 3,236 cubic feet
+* **Dimensions:** 20 ft (L) x 12.5 ft (W) x 10 ft (H)
+* **Area:** 250 sq ft
+* **Volume:** 2,500 cubic feet
+* **Occupants:** 1
+* **Doors:** 1
+* **Windows:** 2
 
 Budget is not a concern. I am looking for a unit that is highly energy-efficient, reliable, and durable. 
 
@@ -29,7 +32,8 @@ My first preference was the **General (O-General)** brand, but I could not find 
 
 I would greatly appreciate your suggestions on the following:
 1. **Which brand and specific model** would you recommend?
-2. **Reliable authorized shops, contacts, or online purchase links** in Dhaka from whom I can purchase one.
+2. **Which AC size (Tonnage) would be best** for this room setup?
+3. **Reliable authorized shops, contacts, or online purchase links** in Dhaka from whom I can purchase one.
 
 Thank you!
 
