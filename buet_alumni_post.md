@@ -17,6 +17,12 @@ I am planning to purchase an AC for my home in Dhaka. I am looking for a unit th
 ✅ **Hot & Cool Function** (Heating & Cooling)
 ✅ **Wall-Mounted Design**
 
+**Room Details:**
+* **Floor:** Top Floor
+* **Dimensions:** 24.5 ft (L) x 12.8 ft (W) x 10.3 ft (H)
+* **Area:** ≈ 313.6 sq ft
+* **Volume:** ≈ 3,236 cubic feet
+
 Budget is not a concern. I am looking for a unit that is highly energy-efficient, reliable, and durable. 
 
 My first preference was the **General (O-General)** brand, but I could not find an official wall-mounted model that offers all three features together.
