@@ -11,31 +11,26 @@ Seeking Suggestions: Wall-Mounted Inverter AC (Hot & Cool) in Dhaka
 
 Assalamu Alaikum everyone,
 
-I am planning to purchase an AC for my home in Dhaka. I am looking for a unit that offers all three of the following features:
+I am planning to purchase an AC for my home. Budget is not a concern. My first preference was O-General, but I could not find a model that offers all the following features I am looking for.
 
-✅ **Inverter Technology**
-✅ **Hot & Cool Function** (Heating & Cooling)
+✅ **Hot & Cool Function**
 ✅ **Wall-Mounted Design**
+✅ **Inverter Technology**
 
-**Room Details:**
-* **Floor:** Top Floor
-* **Dimensions:** 20 ft (L) x 12.5 ft (W) x 10 ft (H)
-* **Area:** 250 sq ft
-* **Volume:** 2,500 cubic feet
-* **Occupants:** 1
-* **Doors:** 1
-* **Windows:** 2
+### Room Details
 
-Budget is not a concern. I am looking for a unit that is highly energy-efficient, reliable, and durable. 
+* 250 sq ft (20 ft × 12.5 ft × 10 ft)
+* Top floor, 1 occupant, 1 door, 2 windows
 
-My first preference was the **General (O-General)** brand, but I could not find an official wall-mounted model that offers all three features together.
+I would appreciate your suggestions on:
 
-I would greatly appreciate your suggestions on the following:
-1. **Which brand and specific model** would you recommend?
-2. **Which AC size (Tonnage) would be best** for this room setup? (Walton and Esquire online calculators suggest **2.5 Ton**, but other websites suggest anywhere from **1.5 to 3 Ton**).
-3. **Reliable authorized shops, contacts, or online purchase links** in Dhaka from whom I can purchase one.
+**1. Brand & Model:** Which brand and model would you recommend?
 
-Thank you!
+**2. AC Capacity (Tonnage):** Walton and Esquire calculators suggest **2.5 Ton**, while other websites suggest **1.5–3 Ton**. What size would be ideal for this room?
+
+**3. Where to Buy:** Please suggest reliable authorized dealers, shops, contacts, or online purchase links in Dhaka.
+
+Thank you.
 
 ---
 
