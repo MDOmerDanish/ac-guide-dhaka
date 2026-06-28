@@ -19,8 +19,9 @@ I am planning to purchase an AC for my home. Budget is not a concern. My first p
 
 ### Room Details
 
-* 250 sq ft (20 ft × 12.5 ft × 10 ft)
-* Top floor, 1 occupant, 1 door, 2 windows
+* **Exact Area (Whole Room):** 24.5 ft × 12.8 ft × 10.3 ft (Approx. 313.6 sq ft)
+* **Approximate Area (Net Cooling Area):** 20 ft × 12.5 ft × 10 ft (Approx. 250 sq ft after deducting the washroom area)
+* **Location & Exposure:** Top floor, 1 occupant, 1 door, 2 windows
 
 I would appreciate your suggestions on:
 

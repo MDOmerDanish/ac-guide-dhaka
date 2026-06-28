@@ -6,13 +6,16 @@ This guide provides a detailed room heat-load calculation and a specific product
 
 ## 📐 1. Room Specifications & Heat Load Parameters
 
-*   **Dimensions:** 20 ft (Length) x 12.5 ft (Width) x 10 ft (Ceiling Height)
-*   **Total Floor Area:** 250 sq ft
-*   **Total Air Volume:** 2,500 cubic feet
+*   **Exact Area (Whole Room):** 24.5 ft (Length) x 12.8 ft (Width) x 10.3 ft (Ceiling Height) = **313.6 sq ft**
+*   **Approximate Area (Net Cooling Area):** 20 ft (Length) x 12.5 ft (Width) x 10 ft (Ceiling Height) = **250 sq ft** (excluding washroom)
+*   **Net Air Volume to Cool:** 2,500 cubic feet
 *   **Floor Level:** Top Floor (High solar heat exposure from roof)
 *   **Occupants:** 1 person
 *   **Doors:** 1 door
 *   **Windows:** 2 windows
+
+> [!NOTE]
+> The heat load calculation below is based on the **Net Cooling Area (250 sq ft)** because the washroom area is assumed to be closed off and not directly conditioned by the AC. If the washroom door is left open, the required cooling load will increase.
 
 ---
 
