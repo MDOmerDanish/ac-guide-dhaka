@@ -1,32 +1,32 @@
 # Gree Inverter Hot & Cool AC — Buying Guide for Saidpur, Bangladesh
 
-## Recommended Model
+## All 2 Ton Gree Inverter Hot & Cool Models (Bangladesh 2026)
 
-**GSH-24XCLV32** (Clivia / Fairy Series — 2 Ton)
+All models below are **2 Ton (24,000 BTU), wall-mounted, inverter, and Hot & Cool** unless noted otherwise.
 
-| Spec | Detail |
-| :--- | :--- |
-| **Capacity** | 2 Ton (24,000 BTU) |
-| **Type** | Wall-Mounted |
-| **Inverter** | Yes (Dual Inverter Compressor) |
-| **Hot & Cool** | Yes |
-| **WiFi Control** | Yes |
-| **Refrigerant** | R32 (eco-friendly) |
-| **Energy Saving** | Up to 60% vs. non-inverter |
-| **Golden Fin Condenser** | Yes (corrosion resistant) |
-| **Est. Price (BDT)** | 90,000 – 1,00,000 |
-| **Compressor Warranty** | 10 Years (authorized dealer only) |
-| **Parts Warranty** | 1 Year |
-| **Service Warranty** | 1 Year |
+| Model | Series | WiFi | Key Feature | Est. Price (BDT) | Hot & Cool |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **GSH-24XCLV32** | Clivia | Yes | Dual inverter, AI energy mgmt, up to 75% energy saving, R32 | 93,000 – 97,000 | Yes |
+| **GSH-24XFV32** | Fairy | Yes | Golden Fin condenser, low voltage startup, R32 | 88,000 – 92,000 | Yes |
+| **GSH-24NFV410** | — | Yes | Energy saving rating 3.23, compact design | ~82,500 | Yes |
+| **GSH-24PUV410** | — | Yes | Budget-friendly inverter Hot & Cool, R410A | ~65,990 | Yes |
+
+> **Note:** The `GS-24XFV32` (without the H prefix) is the **cooling-only** Fairy variant. Make sure the model starts with **GSH** (the H stands for Heat) when buying.
 
 ---
 
-## Why This Model
+## Recommended Pick
 
-- **Inverter + Hot & Cool in one unit** — efficient cooling in summer and heating in winter. Saidpur winters are noticeably colder than Dhaka, making the heat function genuinely useful.
-- **2 Ton capacity** — suitable for rooms between 181–240 sq ft. Go 2 Ton if your room is on the upper end or has poor insulation.
-- **Dual inverter compressor** — quieter, longer-lasting, and significantly cheaper to run than non-inverter models.
-- **10-year compressor warranty** — one of the best in the market, but only valid through Electro Mart Ltd. authorized channels.
+**GSH-24XCLV32 (Clivia Series)** is the top recommendation:
+
+- Dual inverter compressor — quieter, longer-lasting, and significantly cheaper to run than non-inverter models.
+- AI-driven energy management reduces electricity bills by up to 75%.
+- Inverter + Hot & Cool in one unit — efficient cooling in summer and heating in winter. Saidpur winters are noticeably colder than Dhaka, making the heat function genuinely useful.
+- WiFi smart control via smartphone.
+- R32 eco-friendly refrigerant.
+- **10-year compressor warranty** — only valid through Electro Mart Ltd. authorized channels.
+
+If budget is a concern, the **GSH-24PUV410** at ~66,000 BDT is the most affordable option that still covers inverter + Hot & Cool.
 
 ---
 
