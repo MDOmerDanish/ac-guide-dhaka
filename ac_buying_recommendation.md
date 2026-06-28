@@ -64,16 +64,38 @@ Gree is highly durable, handles voltage fluctuations well, and has the most wide
 
 ### 🔵 2. Walton Inverter Hot & Cool Models (Authorized Distributor: Walton Plaza)
 Walton is a highly reliable local manufacturer. Parts are cheap and readily available inside Dhaka.
-*   **Walton WSI-RIVERINE-18CH (1.5 Ton Smart Inverter, Hot & Cool)** *(Note: Underpowered for your top-floor room, listed for comparison as it is their flagship split Hot & Cool model)*
+*   **Walton WSI-KRYSTALINE-24HH (2.0 Ton Intelligent Inverter, Hot & Cool)**
+    *   *Capacity:* 2.0 Ton (24,000 BTU/hr)
+    *   *Price:* ~85,000৳
+    *   *Direct Purchase Link:* [Walton WSI-KRYSTALINE-24HH on Walton E-Plaza](https://eplaza.waltonbd.com/air-conditioner) *(Search for "KRYSTALINE-24HH" on Walton Plaza)*
+*   **Walton WSI-RIVERINE-18CH (1.5 Ton Smart Inverter, Hot & Cool)** *(Note: Underpowered for your top-floor room, listed for capacity comparison)*
     *   *Capacity:* 1.5 Ton (18,000 BTU/hr)
     *   *Price:* ~72,000৳
-    *   *Direct Purchase Link:* [Walton WSI-RIVERINE-18CH on Walton E-Plaza](https://eplaza.waltonbd.com/air-conditioner) *(Walton uses dynamic product paths; search for "RIVERINE-18CH" in their search bar)*
+    *   *Direct Purchase Link:* [Walton WSI-RIVERINE-18CH on Walton E-Plaza](https://eplaza.waltonbd.com/air-conditioner) *(Search for "RIVERINE-18CH" on Walton Plaza)*
 
-### 🔴 3. Premium Brands (Special Order Only)
-If you prefer Daikin or Mitsubishi Heavy Duty, split-type Hot & Cool (heat pump) inverter systems are typically imported on demand by authorized distributors due to low local heating demand:
+
+### 🟡 3. Vision Inverter Hot & Cool Models (Authorized Distributor: PRAN-RFL Group / Best Buy)
+Vision is a popular Bangladeshi brand by PRAN-RFL Group, known for budget-friendly electronics with long compressor warranties.
+*   **Vision AC 2 Ton Hot And Cool & WiFi Inverter (VSN-24K-HCWiFi-INV410 Eco / 4D Ultra)**
+    *   *Capacity:* 2.0 Ton (24,000 BTU/hr)
+    *   *Price:* ~78,000৳ (often discounted to ~70,000৳ on Othoba)
+    *   *Direct Purchase Link:* [Vision AC 2 Ton Inverter on Othoba](https://www.othoba.com/) *(Search for "Vision AC 2 Ton Hot And Cool & WiFi Inverter" on Othoba)*
+
+---
+
+### 🔴 4. Premium Brands (Special Order Only)
+If you prefer Daikin, Mitsubishi Heavy Duty, or Panasonic, split-type Hot & Cool (heat pump) inverter systems are typically imported on demand by authorized distributors due to low local heating demand:
 *   **Mitsubishi Heavy Industries (MHI) Inverter Hot & Cool Split AC**
     *   *Authorized Importer:* Esquire Electronics Ltd.
     *   *Direct Directory Link:* [Esquire Electronics AC Collection](https://esquireelectronicsltd.com/air-conditioners/) *(Contact Tejgaon/Gulshan showrooms directly to request a special order quote for a wall-mounted Heat Pump model).*
 *   **Daikin Inverter Hot & Cool (FTHT / FTXF Heat Pump Series)**
     *   *Authorized Importer:* Transcom Digital
     *   *Direct Directory Link:* [Transcom Digital AC Collection](https://transcomdigital.com/home-appliances/air-conditioners.html) *(Contact Gulshan/Tejgaon showrooms directly to check if they can source a Daikin split inverter heat pump).*
+*   **Panasonic Inverter Hot & Cool Split AC**
+    *   *Authorized Importers:* Best Electronics / Sony Rangs
+    *   *Note:* Standard Panasonic split-type inverter ACs officially distributed in Bangladesh are **cooling-only** models. To obtain a Panasonic model with heat pump / Hot & Cool functionality, contact authorized showrooms directly to check if they can special-order or import a reverse-cycle unit.
+*   **Samsung, LG, Singer, & Midea Inverter Split ACs**
+    *   *Authorized Showrooms:* Butterfly Group (LG), Fair Electronics/Transcom (Samsung), Singer BD, Elite Electronics (Midea).
+    *   *Note:* Standard 2-ton inverter wall-mounted split AC lines for these major brands in Bangladesh (e.g., Samsung WindFree, LG Dual Inverter, Singer Green Inverter) are **cooling-only** models. They do not officially offer a Hot & Cool inverter split model in standard retail inventories.
+
+

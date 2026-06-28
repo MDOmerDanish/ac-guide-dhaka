@@ -1,17 +1,62 @@
-# Gree Inverter Hot & Cool AC — Buying Guide for Saidpur, Bangladesh
+# 2 Ton Inverter Hot & Cool AC — Buying Guide for Saidpur, Bangladesh
 
-## All 2 Ton Gree Inverter Hot & Cool Models (Bangladesh 2026)
+## All 2 Ton Inverter Hot & Cool Models (Bangladesh 2026)
 
-All models below are **2 Ton (24,000 BTU), wall-mounted, inverter, and Hot & Cool** unless noted otherwise.
+All models below are **2 Ton, wall-mounted, inverter, and Hot & Cool**.
 
-| Model | Series | WiFi | Key Feature | Est. Price (BDT) | Hot & Cool |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **GSH-24XCLV32** | Clivia | Yes | Dual inverter, AI energy mgmt, up to 75% energy saving, R32 | 93,000 – 97,000 | Yes |
-| **GSH-24XFV32** | Fairy | Yes | Golden Fin condenser, low voltage startup, R32 | 88,000 – 92,000 | Yes |
-| **GSH-24NFV410** | — | Yes | Energy saving rating 3.23, compact design | ~82,500 | Yes |
-| **GSH-24PUV410** | — | Yes | Budget-friendly inverter Hot & Cool, R410A | ~65,990 | Yes |
+### Gree
 
-> **Note:** The `GS-24XFV32` (without the H prefix) is the **cooling-only** Fairy variant. Make sure the model starts with **GSH** (the H stands for Heat) when buying.
+| Model | Series | WiFi | Key Feature | Price (BDT) |
+| :--- | :--- | :--- | :--- | :--- |
+| **GSH-24XCLV32** | Clivia | Yes | Dual inverter, AI energy mgmt, up to 75% energy saving, R32 | 93,000 – 97,000 |
+| **GSH-24XFV32** | Fairy | Yes | Golden Fin condenser, low voltage startup, R32 | 88,000 – 92,000 |
+| **GSH-24NFV410** | — | Yes | Energy saving rating 3.23, compact design | ~82,500 |
+| **GSH-24PUV410** | — | Yes | Budget-friendly, R410A | ~65,990 |
+
+> **Note:** The `GS-24XFV32` (without the H prefix) is the **cooling-only** Fairy variant. Always look for the **GSH** prefix to confirm heat function.
+
+**Authorized Distributor:** Electro Mart Ltd. (EML) — Hotline: 01618-028590 / 01719-117333
+
+---
+
+### Vision (RFL)
+
+| Model | WiFi | Key Feature | MRP (BDT) | Discounted Price (BDT) |
+| :--- | :--- | :--- | :--- | :--- |
+| **VSN-24K-HCWiFi-INV410 4D Ultra** | Yes | Hot & Cool, Inverter, 4D airflow, R410A | 82,000 | ~69,700 (15% off) |
+| **VSN-24K-HCWiFi-INV410 Eco** | Yes | Hot & Cool, Inverter, Eco mode, R410A | 82,000 | ~69,700 (15% off) |
+
+> **Note:** Vision is manufactured locally in Bangladesh by RFL Group. Spare parts are cheap and widely available nationwide, including in smaller cities like Saidpur. After-sales service network is strong outside Dhaka.
+
+**Where to buy:** Vision's official store ([vision.com.bd](https://vision.com.bd)) or RFL authorized dealers. Also available on Othoba.com.
+
+---
+
+## Head-to-Head Comparison
+
+| Spec | Gree GSH-24XCLV32 (Clivia) | Gree GSH-24XFV32 (Fairy) | Gree GSH-24NFV410 | Gree GSH-24PUV410 | Vision VSN-24K-HCWiFi-INV410 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Capacity** | 2 Ton | 2 Ton | 2 Ton | 2 Ton | 2 Ton |
+| **Inverter** | ✅ Dual | ✅ | ✅ | ✅ | ✅ |
+| **Hot & Cool** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **WiFi** | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Refrigerant** | R32 🏆 | R32 🏆 | R410A | R410A | R410A |
+| **Energy Saving** | Up to 75% 🏆 | ~60% | ~60% | ~50% | ~50% |
+| **Compressor Warranty** | 10 Years 🏆 | 10 Years 🏆 | 10 Years 🏆 | 10 Years 🏆 | Not confirmed |
+| **After-sales in Saidpur** | EML dealer (call to confirm) | EML dealer (call to confirm) | EML dealer (call to confirm) | EML dealer (call to confirm) | ✅ Strong (RFL local network) 🏆 |
+| **Local spare parts** | Moderate | Moderate | Moderate | Moderate | ✅ Excellent (made in BD) 🏆 |
+| **Price (BDT)** | 93,000–97,000 | 88,000–92,000 | ~82,500 | ~65,990 🏆 | ~69,700 |
+| **Overall Winner** | 🏆 Best specs | Runner-up | Mid-range | Budget pick | Best local support |
+
+### Verdict by priority
+
+| Your Priority | Best Pick |
+| :--- | :--- |
+| **Best overall specs + efficiency** | Gree GSH-24XCLV32 (Clivia) |
+| **Best value for money** | Gree GSH-24PUV410 |
+| **Best after-sales support in Saidpur** | Vision VSN-24K-HCWiFi-INV410 |
+| **Most eco-friendly refrigerant (R32)** | Gree GSH-24XCLV32 or GSH-24XFV32 |
+| **Lowest price** | Gree GSH-24PUV410 (~65,990) |
 
 ---
 
