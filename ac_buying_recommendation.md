@@ -81,9 +81,20 @@ Vision is a popular Bangladeshi brand by PRAN-RFL Group, known for budget-friend
     *   *Price:* ~78,000৳ (often discounted to ~70,000৳ on Othoba)
     *   *Direct Purchase Link:* [Vision AC 2 Ton Inverter on Othoba](https://www.othoba.com/) *(Search for "Vision AC 2 Ton Hot And Cool & WiFi Inverter" on Othoba)*
 
+### 🟠 4. Haier Inverter Hot & Cool Models (Direct Operations: Haier Bangladesh)
+Haier operates directly in Bangladesh and is known for advanced self-cleaning, high-temperature performance, and triple inverter tech.
+*   **Haier HSU-19UltimateCool (INV)(Pro)(X6)(T3) (1.6 Ton Inverter, Hot & Cool)** *(Note: Underpowered for your top-floor room, listed for capacity comparison)*
+    *   *Capacity:* 1.6 Ton (approx. 19,000 BTU/hr)
+    *   *Price:* 89,991.00৳ (MRP 99,990.00৳)
+    *   *Direct Purchase Link:* [Haier HSU-19UltimateCool on Haier Bangladesh](https://www.haier.com/bd/air-conditioners/hsu-19ultimatecool-inv-pro-x6-t3.shtml)
+*   **Haier HSU-19HeatCool (INV)(Pro) (1.6 Ton Inverter, Hot & Cool)** *(Note: Underpowered for your top-floor room, listed for capacity comparison)*
+    *   *Capacity:* 1.6 Ton (approx. 19,000 BTU/hr)
+    *   *Price:* 75,041.00৳ (MRP 78,990.00৳)
+    *   *Direct Purchase Link:* [Haier HSU-19HeatCool on Haier Bangladesh](https://www.haier.com/bd/air-conditioners/hsu-19heatcool-inv-pro.shtml)
+
 ---
 
-### 🔴 4. Premium Brands (Special Order Only)
+### 🔴 5. Premium Brands (Special Order Only)
 If you prefer Daikin, Mitsubishi Heavy Duty, or Panasonic, split-type Hot & Cool (heat pump) inverter systems are typically imported on demand by authorized distributors due to low local heating demand:
 *   **Mitsubishi Heavy Industries (MHI) Inverter Hot & Cool Split AC**
     *   *Authorized Importer:* Esquire Electronics Ltd.
@@ -97,5 +108,59 @@ If you prefer Daikin, Mitsubishi Heavy Duty, or Panasonic, split-type Hot & Cool
 *   **Samsung, LG, Singer, & Midea Inverter Split ACs**
     *   *Authorized Showrooms:* Butterfly Group (LG), Fair Electronics/Transcom (Samsung), Singer BD, Elite Electronics (Midea).
     *   *Note:* Standard 2-ton inverter wall-mounted split AC lines for these major brands in Bangladesh (e.g., Samsung WindFree, LG Dual Inverter, Singer Green Inverter) are **cooling-only** models. They do not officially offer a Hot & Cool inverter split model in standard retail inventories.
+
+---
+
+## 📊 4. Brand Comparison Matrix & Specifications
+
+Here is a side-by-side comparison of the residential wall-mounted Hot & Cool Inverter AC models available in the Bangladeshi market:
+
+| Brand & Model Series | Capacity (Tonnage & BTU) | Refrigerant | Key Unique Features | Est. Price Range (BDT) | Compressor Warranty | Parts Warranty |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Gree Fairy / Clivia** | 2.0 Ton (24,000 BTU/hr) | **R32** | AI Climate Control (Clivia), UVC Sterilization (Clivia), Golden Fin, Low-voltage startup | 97,290৳ (Fairy) <br> 118,000৳ (Clivia) | 10 Years | 1 Year |
+| **Walton Krystaline** | 2.0 Ton (24,000 BTU/hr) | **R32** | Intelligent Inverter, 4D Airflow, local parts availability | ~85,000৳ | 10 Years | 3 Years |
+| **Vision 4D Ultra WiFi** | 2.0 Ton (24,000 BTU/hr) | R410a | WiFi Smart Control, 4D Airflow, budget pricing | 70,000৳ – 78,000৳ | 10 Years | 2 Years |
+| **Haier UltimateCool (T3)**| 1.6 Ton (19,000 BTU/hr) | **R32** | T3 Tropical Compressor (full load at 53°C), UVC Pro Sterilization, Triple Inverter, Wi-Fi | ~89,991৳ | 10 Years | 1 Year |
+| **Haier HeatCool** | 1.6 Ton (19,000 BTU/hr) | **R32** | AI Climate Master, Frost Self-Clean, ECO Mode, Triple Inverter, Wi-Fi | ~75,041৳ | 10 Years | 1 Year |
+
+---
+
+## 🏆 5. Winner & Weakness Analysis for Each AC Model
+
+To help you make an informed decision, here is the detailed breakdown of the "winner category" (primary strength) and key weaknesses of each model:
+
+### 🟢 Gree (Fairy/Clivia 2.0 Ton)
+*   **🏆 Winner of:** 🏋️‍♂️ *Durability & Heavy-Duty Performance*
+    *   *Why:* Gree is built like a tank. It handles the notorious Dhaka voltage fluctuations better than any other brand due to its robust power supply design and low-voltage startup. The outdoor unit is heavier and uses thicker copper coils.
+*   **⚠️ Key Weakness:** 💸 *Premium Pricing & Short Parts Warranty*
+    *   *Why:* The Clivia series is very expensive (BDT 118,000) for a 2-ton model. Furthermore, Gree only offers a 1-year parts warranty compared to Walton's 3 years or Vision's 2 years.
+
+### 🔵 Walton (Krystaline 2.0 Ton)
+*   **🏆 Winner of:** 🛠️ *Warranty & Post-Sales Maintenance Cost*
+    *   *Why:* Walton offers a best-in-class **3-year parts warranty** and possesses the fastest, most affordable service network in Bangladesh. Spare parts (such as PCBs, fan motors) are manufactured locally and cost a fraction of what imported brands charge.
+*   **⚠️ Key Weakness:** 🎨 *Aesthetics & Plastic Build Quality*
+    *   *Why:* The plastic fit and finish of both the indoor and outdoor casings feel less premium than Gree and Haier. The fan blades and swing louvers are prone to creaking sounds over years of usage.
+
+### 🟡 Vision (2.0 Ton WiFi Inverter)
+*   **🏆 Winner of:** 🏷️ *Value for Money & Budget Smart Features*
+    *   *Why:* At ~70,000 BDT, it is the cheapest 2.0 Ton Hot & Cool inverter in the market. It includes built-in Wi-Fi and smart control features that usually cost BDT 90k+ in other brands.
+*   **⚠️ Key Weakness:** 🛢️ *Outdated R410a Refrigerant & Higher Noise/Vibration*
+    *   *Why:* It uses R410a refrigerant, which is less eco-friendly and has lower cooling efficiency compared to the R32 used by Gree, Walton, and Haier. Furthermore, the outdoor unit is known to vibrate heavily and run louder than competitors.
+
+### 🟠 Haier (UltimateCool / HeatCool 1.6 Ton)
+*   **🏆 Winner of:** 🧼 *Hygiene Technology, Self-Cleaning & Extreme Heat Coping*
+    *   *Why:* Haier's **Frost Self-Clean** technology is the best in the market, freezing the evaporator to trap dirt and washing it away during defrosting. The UltimateCool T3 model also wins for maintaining 100% cooling capacity at up to 53°C ambient temperature.
+*   **⚠️ Key Weakness:** 📉 *Capacity Limit (Too Small for Top-Floor 250 sq ft Room)*
+    *   *Why:* Haier does *not* offer a 2.0 Ton or 2.5 Ton Hot & Cool Inverter model in Bangladesh. A 1.6 Ton (19,000 BTU) unit will be severely underpowered for a top-floor room with concrete roof exposure during 40°C summer afternoons. The compressor will run constantly at 100% capacity, defeating the energy-saving purpose of the inverter.
+
+---
+
+## 🏁 6. Final Recommendation Verdict for Your Dhaka Room
+
+Since a 2.5 Ton Hot & Cool Inverter split AC does not exist in the wall-mounted category in Bangladesh, you must go with a heavy-duty 2.0 Ton model.
+
+1.  **Top Recommendation (If budget allows):** **Gree Clivia/Fairy 2.0 Ton**. It has the durability to withstand the top-floor heat load and voltage fluctuations.
+2.  **Value Alternative:** **Walton Krystaline 2.0 Ton**. It provides a 3-year parts warranty and cheap repairs, making it a very safe investment.
+3.  **Avoid:** **Haier 1.6 Ton** (solely due to inadequate capacity for a top-floor 250 sq ft room) and **Vision 2.0 Ton** (due to R410a refrigerant and build quality concerns).
 
 

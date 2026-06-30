@@ -32,31 +32,49 @@ All models below are **2 Ton, wall-mounted, inverter, and Hot & Cool**.
 
 ---
 
-## Head-to-Head Comparison
+### Haier
+
+> ⚠️ **Important:** Haier's HeatCool inverter series in Bangladesh currently only goes up to **1.5 Ton (HSU-18HeatCool)** and **1.6 Ton (HSU-19HeatCool)**. There is **no confirmed 2 Ton HeatCool model** officially available in Bangladesh as of 2026. All Haier 2 Ton models (EnergyCool, CleanCool, WifiCool, etc.) are **cooling-only**.
+
+| Model | Capacity | Hot & Cool | Inverter | WiFi | Key Feature | Price (BDT) |
+| :--- | :---: | :---: | :---: | :---: | :--- | :--- |
+| **HSU-18HeatCool** | 1.5 Ton | ✅ Yes | ✅ Yes | No | R32, up to 65% energy saving, 10yr warranty | ~69,900 |
+| **HSU-19HeatCool (Pro)** | 1.6 Ton | ✅ Yes | ✅ Yes | Yes | Triple inverter, WiFi, UVC Pro sterilization | ~80,990 |
+| ~~HSU-24HeatCool~~ | ~~2 Ton~~ | ❌ Not available | — | — | Not officially sold in Bangladesh | — |
+
+If you specifically need **2 Ton + Hot & Cool**, Haier is **not an option** at this time. Stick to Gree or Vision for 2 Ton.
+
+**Authorized Distributor:** Haier Bangladesh operates directly (not through a third party).
+- **Website:** [haier.com/bd](https://www.haier.com/bd/)
+
+---
+
+## Head-to-Head Comparison (2 Ton Inverter Hot & Cool Only)
 
 | Spec | Gree GSH-24XCLV32 (Clivia) | Gree GSH-24XFV32 (Fairy) | Gree GSH-24NFV410 | Gree GSH-24PUV410 | Vision VSN-24K-HCWiFi-INV410 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Capacity** | 2 Ton | 2 Ton | 2 Ton | 2 Ton | 2 Ton |
-| **Inverter** | ✅ Dual | ✅ | ✅ | ✅ | ✅ |
+| **Inverter type** | Dual 🏆 | Single | Single | Single | Single |
 | **Hot & Cool** | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **WiFi** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Refrigerant** | R32 🏆 | R32 🏆 | R410A | R410A | R410A |
-| **Energy Saving** | Up to 75% 🏆 | ~60% | ~60% | ~50% | ~50% |
-| **Compressor Warranty** | 10 Years 🏆 | 10 Years 🏆 | 10 Years 🏆 | 10 Years 🏆 | Not confirmed |
-| **After-sales in Saidpur** | EML dealer (call to confirm) | EML dealer (call to confirm) | EML dealer (call to confirm) | EML dealer (call to confirm) | ✅ Strong (RFL local network) 🏆 |
-| **Local spare parts** | Moderate | Moderate | Moderate | Moderate | ✅ Excellent (made in BD) 🏆 |
-| **Price (BDT)** | 93,000–97,000 | 88,000–92,000 | ~82,500 | ~65,990 🏆 | ~69,700 |
-| **Overall Winner** | 🏆 Best specs | Runner-up | Mid-range | Budget pick | Best local support |
+| **Refrigerant** | R32 🏆 | R32 🏆 | R410A ❌ | R410A ❌ | R410A ❌ |
+| **Energy saving** | Up to 75% 🏆 | ~60% | ~60% | ~50% ❌ | ~50% ❌ |
+| **Compressor warranty** | 10 Years 🏆 | 10 Years 🏆 | 10 Years 🏆 | 10 Years 🏆 | Not confirmed ❌ |
+| **After-sales in Saidpur** | ⚠️ EML (call to confirm) | ⚠️ EML (call to confirm) | ⚠️ EML (call to confirm) | ⚠️ EML (call to confirm) | ✅ RFL local network 🏆 |
+| **Local spare parts** | Moderate | Moderate | Moderate | Moderate | Excellent (made in BD) 🏆 |
+| **Price (BDT)** | 93,000–97,000 ❌ | 88,000–92,000 | ~82,500 | ~65,990 🏆 | ~69,700 |
+| **🏆 Wins** | Inverter type, refrigerant, energy saving | Refrigerant | Mid balance | Lowest price | Local support & parts |
+| **❌ Weakness** | Most expensive | Pricey for single inverter | R410A refrigerant | Least efficient | Warranty unclear, R410A |
 
 ### Verdict by priority
 
-| Your Priority | Best Pick |
-| :--- | :--- |
-| **Best overall specs + efficiency** | Gree GSH-24XCLV32 (Clivia) |
-| **Best value for money** | Gree GSH-24PUV410 |
-| **Best after-sales support in Saidpur** | Vision VSN-24K-HCWiFi-INV410 |
-| **Most eco-friendly refrigerant (R32)** | Gree GSH-24XCLV32 or GSH-24XFV32 |
-| **Lowest price** | Gree GSH-24PUV410 (~65,990) |
+| Your Priority | Best Pick | Why |
+| :--- | :--- | :--- |
+| **Best overall specs** | Gree GSH-24XCLV32 (Clivia) | Dual inverter, R32, 75% energy saving |
+| **Best value for money** | Gree GSH-24PUV410 | Cheapest at ~66,000 BDT, still hot & cool inverter |
+| **Best after-sales in Saidpur** | Vision VSN-24K-HCWiFi-INV410 | RFL has strong local service network |
+| **Eco-friendly refrigerant** | Gree GSH-24XCLV32 or GSH-24XFV32 | R32 is lower GWP than R410A |
+| **Budget + local support** | Vision VSN-24K-HCWiFi-INV410 | ~69,700 with RFL service everywhere |
 
 ---
 
